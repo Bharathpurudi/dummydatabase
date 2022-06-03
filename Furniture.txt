@@ -1,0 +1,122 @@
+[
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/26/1.jpg",
+  "productCategory": "Furniture",
+  "productDoe": "2030-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Plant Holder",
+  "productPrice": 1000,
+  "stockQuantity": 100,
+  "warrantyId": 4
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/27/1.jpg",
+  "productCategory": "Furniture",
+  "productDoe": "2030-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Sofa Set",
+  "productPrice": 75000,
+  "stockQuantity": 100,
+  "warrantyId": 4
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/28/1.jpg",
+  "productCategory": "Furniture",
+  "productDoe": "2030-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Wall Lamp",
+  "productPrice": 5000,
+  "stockQuantity": 100,
+  "warrantyId": 4
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/29/1.jpg",
+  "productCategory": "Furniture",
+  "productDoe": "2030-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Ceramic Pots",
+  "productPrice": 5000,
+  "stockQuantity": 100,
+  "warrantyId": 4
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/30/1.jpg",
+  "productCategory": "Furniture",
+  "productDoe": "2030-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Metalic Key Holder",
+  "productPrice": 500,
+  "stockQuantity": 100,
+  "warrantyId": 4
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/31/1.jpg",
+  "productCategory": "Furniture",
+  "productDoe": "2030-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Maharaja Bed",
+  "productPrice": 1000,
+  "stockQuantity": 100,
+  "warrantyId": 4
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/32/1.jpg",
+  "productCategory": "Furniture",
+  "productDoe": "2030-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Bamboo Chair Set",
+  "productPrice": 5000,
+  "stockQuantity": 100,
+  "warrantyId": 4
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/33/1.jpg",
+  "productCategory": "Furniture",
+  "productDoe": "2030-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Books Wall Shelf",
+  "productPrice": 5000,
+  "stockQuantity": 100,
+  "warrantyId": 4
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/34/1.jpg",
+  "productCategory": "Furniture",
+  "productDoe": "2030-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Portable Table",
+  "productPrice": 500,
+  "stockQuantity": 100,
+  "warrantyId": 4
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/35/1.jpg",
+  "productCategory": "Furniture",
+  "productDoe": "2030-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Children Wardrobe",
+  "productPrice": 5000,
+  "stockQuantity": 100,
+  "warrantyId": 4
+}
+]

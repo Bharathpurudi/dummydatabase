@@ -1,0 +1,122 @@
+[
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/44/1.jpg",
+  "productCategory": "Fashion",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Women Palaza",
+  "productPrice": 1500,
+  "stockQuantity": 100,
+  "warrantyId": 1
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/41/1.jpg",
+  "productCategory": "Fashion",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Women Nightware",
+  "productPrice": 1500,
+  "stockQuantity": 100,
+  "warrantyId": 1
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/43/1.jpg",
+  "productCategory": "Fashion",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Anarkali",
+  "productPrice": 1500,
+  "stockQuantity": 100,
+  "warrantyId": 1
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/51/1.png",
+  "productCategory": "Fashion",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Basic Tee",
+  "productPrice": 1500,
+  "stockQuantity": 100,
+  "warrantyId": 1
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/52/1.png",
+  "productCategory": "Fashion",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Men Tee",
+  "productPrice": 1500,
+  "stockQuantity": 100,
+  "warrantyId": 1
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/53/2.jpg",
+  "productCategory": "Fashion",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "T Shirts Combo",
+  "productPrice": 2000,
+  "stockQuantity": 100,
+  "warrantyId": 1
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/54/2.jpg",
+  "productCategory": "Fashion",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Printed Tee",
+  "productPrice": 2000,
+  "stockQuantity": 100,
+  "warrantyId": 1
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/54/3.jpg",
+  "productCategory": "Fashion",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "PubG Tee",
+  "productPrice": 2000,
+  "stockQuantity": 100,
+  "warrantyId": 1
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/55/3.jpg",
+  "productCategory": "Fashion",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Heist T Combo",
+  "productPrice": 2000,
+  "stockQuantity": 100,
+  "warrantyId": 1
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/51/3.jpg",
+  "productCategory": "Fashion",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "V Necked Tees",
+  "productPrice": 2000,
+  "stockQuantity": 100,
+  "warrantyId": 1
+}
+]

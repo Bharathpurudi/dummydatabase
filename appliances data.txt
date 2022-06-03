@@ -1,0 +1,122 @@
+[
+{
+  "expired": false,
+  "imageUrl": "https://res.cloudinary.com/dhyg2tdfb/image/upload/v1654095520/knives_g4pytq.jpg",
+  "productCategory": "Appliances",
+  "productDoe": "2026-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Knives Set",
+  "productPrice": 1000,
+  "stockQuantity": 100,
+  "warrantyId": 5
+},
+{
+  "expired": false,
+  "imageUrl": "https://res.cloudinary.com/dhyg2tdfb/image/upload/v1654095519/front-load_oee3z4.png",
+  "productCategory": "Appliances",
+  "productDoe": "2026-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Washing Machine",
+  "productPrice": 25000,
+  "stockQuantity": 100,
+  "warrantyId": 5
+},
+{
+  "expired": false,
+  "imageUrl": "https://res.cloudinary.com/dhyg2tdfb/image/upload/v1654095520/mi_tv_mvxznt.jpg",
+  "productCategory": "Appliances",
+  "productDoe": "2026-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "MI Smart Tv",
+  "productPrice": 20000,
+  "stockQuantity": 100,
+  "warrantyId": 5
+},
+{
+  "expired": false,
+  "imageUrl": "https://res.cloudinary.com/dhyg2tdfb/image/upload/v1654095520/vacuum-cleaner-500x500_c62ghy.jpg",
+  "productCategory": "Appliances",
+  "productDoe": "2026-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Vaccum Cleaner",
+  "productPrice": 17000,
+  "stockQuantity": 100,
+  "warrantyId": 5
+},
+{
+  "expired": false,
+  "imageUrl": "https://res.cloudinary.com/dhyg2tdfb/image/upload/v1654095519/television_y7jgfg.jpg",
+  "productCategory": "Appliances",
+  "productDoe": "2026-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Samsung UHD Tv",
+  "productPrice": 50000,
+  "stockQuantity": 100,
+  "warrantyId": 5
+},
+{
+  "expired": false,
+  "imageUrl": "https://res.cloudinary.com/dhyg2tdfb/image/upload/v1654095519/blendit_pzllst.jpg",
+  "productCategory": "Appliances",
+  "productDoe": "2026-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Portable Blender",
+  "productPrice": 3500,
+  "stockQuantity": 100,
+  "warrantyId": 5
+},
+{
+  "expired": false,
+  "imageUrl": "https://res.cloudinary.com/dhyg2tdfb/image/upload/v1654095519/kettle_el3hav.jpg",
+  "productCategory": "Appliances",
+  "productDoe": "2026-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Electric Kettle Set",
+  "productPrice": 20000,
+  "stockQuantity": 100,
+  "warrantyId": 5
+},
+{
+  "expired": false,
+  "imageUrl": "https://res.cloudinary.com/dhyg2tdfb/image/upload/v1654095519/chopping_board_d4bfa7.jpg",
+  "productCategory": "Appliances",
+  "productDoe": "2026-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Chopping Board",
+  "productPrice": 350,
+  "stockQuantity": 100,
+  "warrantyId": 5
+},
+{
+  "expired": false,
+  "imageUrl": "https://res.cloudinary.com/dhyg2tdfb/image/upload/v1654095519/blender_r0w9ty.jpg",
+  "productCategory": "Appliances",
+  "productDoe": "2026-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Blender",
+  "productPrice": 22500,
+  "stockQuantity": 100,
+  "warrantyId": 5
+},
+{
+  "expired": false,
+  "imageUrl": "https://res.cloudinary.com/dhyg2tdfb/image/upload/v1654095519/fridge_u68zlm.png",
+  "productCategory": "Appliances",
+  "productDoe": "2026-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Whirlpool Fridge",
+  "productPrice": 34999,
+  "stockQuantity": 100,
+  "warrantyId": 5
+}
+]

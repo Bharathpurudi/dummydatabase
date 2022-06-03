@@ -1,0 +1,122 @@
+[
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/20/1.jpg",
+  "productCategory": "Beauty",
+  "productDoe": "2024-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Fair & Clear",
+  "productPrice": 100,
+  "stockQuantity": 100,
+  "warrantyId": 4
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/11/1.jpg",
+  "productCategory": "Beauty",
+  "productDoe": "2024-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Azuba Perfume",
+  "productPrice": 1000,
+  "stockQuantity": 100,
+  "warrantyId": 4
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/12/1.jpg",
+  "productCategory": "Beauty",
+  "productDoe": "2024-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Royal Miraze",
+  "productPrice": 5000,
+  "stockQuantity": 100,
+  "warrantyId": 4
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/13/1.jpg",
+  "productCategory": "Beauty",
+  "productDoe": "2024-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Fogg Xpresso",
+  "productPrice": 2000,
+  "stockQuantity": 100,
+  "warrantyId": 4
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/14/1.jpg",
+  "productCategory": "Beauty",
+  "productDoe": "2024-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Al Munakh Atthar",
+  "productPrice": 5000,
+  "stockQuantity": 100,
+  "warrantyId": 4
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/15/1.jpg",
+  "productCategory": "Beauty",
+  "productDoe": "2024-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Alkharam Athar",
+  "productPrice": 5000,
+  "stockQuantity": 100,
+  "warrantyId": 4
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/16/1.png",
+  "productCategory": "Beauty",
+  "productDoe": "2024-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Laurel Serum",
+  "productPrice": 1500,
+  "stockQuantity": 100,
+  "warrantyId": 4
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/17/1.jpg",
+  "productCategory": "Beauty",
+  "productDoe": "2024-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Herman Tea Tree Oil",
+  "productPrice": 200,
+  "stockQuantity": 100,
+  "warrantyId": 4
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/18/1.jpg",
+  "productCategory": "Beauty",
+  "productDoe": "2024-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Dermi Vi Moisturizer",
+  "productPrice": 500,
+  "stockQuantity": 100,
+  "warrantyId": 4
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/19/1.jpg",
+  "productCategory": "Beauty",
+  "productDoe": "2024-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Rice Face Serum",
+  "productPrice": 1000,
+  "stockQuantity": 100,
+  "warrantyId": 4
+}
+]

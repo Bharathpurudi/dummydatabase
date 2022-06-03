@@ -1,0 +1,122 @@
+[
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/1/1.jpg",
+  "productCategory": "Electronics",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Iphone 5",
+  "productPrice": 30000,
+  "stockQuantity": 100,
+  "warrantyId": 2
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/2/1.jpg",
+  "productCategory": "Electronics",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Samsung Galaxy M2",
+  "productPrice": 25000,
+  "stockQuantity": 100,
+  "warrantyId": 2
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/3/1.jpg",
+  "productCategory": "Electronics",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Motorola Grand",
+  "productPrice": 15000,
+  "stockQuantity": 100,
+  "warrantyId": 2
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/4/1.jpg",
+  "productCategory": "Electronics",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "RealMe Nazro x",
+  "productPrice": 10000,
+  "stockQuantity": 100,
+  "warrantyId": 2
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/5/1.jpg",
+  "productCategory": "Electronics",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Huwai Pixer",
+  "productPrice": 25000,
+  "stockQuantity": 100,
+  "warrantyId": 2
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/6/1.png",
+  "productCategory": "Electronics",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "MAC Book Pro",
+  "productPrice": 200000,
+  "stockQuantity": 100,
+  "warrantyId": 2
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/7/1.jpg",
+  "productCategory": "Electronics",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Dell Inspiron",
+  "productPrice": 50000,
+  "stockQuantity": 100,
+  "warrantyId": 2
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/8/1.jpg",
+  "productCategory": "Electronics",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Hp Notebook",
+  "productPrice": 30000,
+  "stockQuantity": 100,
+  "warrantyId": 2
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/9/1.jpg",
+  "productCategory": "Electronics",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Dell Inspiron Z-X",
+  "productPrice": 100000,
+  "stockQuantity": 100,
+  "warrantyId": 2
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/10/1.jpg",
+  "productCategory": "Electronics",
+  "productDoe": "2028-02-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Hp UltraBook",
+  "productPrice": 30000,
+  "stockQuantity": 100,
+  "warrantyId": 2
+}
+]

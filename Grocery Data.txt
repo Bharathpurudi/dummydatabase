@@ -1,0 +1,62 @@
+[
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/21/1.png",
+  "productCategory": "Grocery",
+  "productDoe": "2022-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Dal",
+  "productPrice": 100,
+  "stockQuantity": 100,
+  "warrantyId": 3
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/22/1.jpg",
+  "productCategory": "Grocery",
+  "productDoe": "2022-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Italian Pasta",
+  "productPrice": 150,
+  "stockQuantity": 100,
+  "warrantyId": 3
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/23/1.jpg",
+  "productCategory": "Grocery",
+  "productDoe": "2022-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Orange Food Essence",
+  "productPrice": 50,
+  "stockQuantity": 100,
+  "warrantyId": 3
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/24/1.jpg",
+  "productCategory": "Grocery",
+  "productDoe": "2022-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Fauzi Museli",
+  "productPrice": 500,
+  "stockQuantity": 100,
+  "warrantyId": 3
+},
+{
+  "expired": false,
+  "imageUrl": "https://dummyjson.com/image/i/products/25/1.png",
+  "productCategory": "Grocery",
+  "productDoe": "2022-12-01",
+  "productDom": "2022-02-01",
+  "productId": 0,
+  "productName": "Rose Petals Powder",
+  "productPrice": 250,
+  "stockQuantity": 100,
+  "warrantyId": 3
+}
+]
